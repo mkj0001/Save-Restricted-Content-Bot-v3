@@ -88,7 +88,7 @@
     },
     "JOIN_LINK": {
       "description": "type join channel link which comes on /start",
-      "value": "https://t.me/team_spy_pro",
+      "value": "https://t.me/Rajasthani_ComebackAgain",
       "required": true
     }
   },
@@ -98,4 +98,5 @@
   ],
   "stack": "container"
 }
+
 
